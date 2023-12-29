@@ -339,7 +339,7 @@ def data_quality_checks():
     data_distribution_check = lambda df, column: df.groupBy(column).count() \
         .withColumn('table', lit(df.columns[0])).limit(100)  # Adjust the limit as needed
 
-    # Example: Check distribution of ages in demographics table
+    # Check distribution of ages in demographics table
     age_distribution_check = data_distribution_check(dq_dimension_demographics_table, "median_age")
 
     # Execute Data Quality Checks
