@@ -27,7 +27,7 @@ The following datasets are included in the project workspace.
 **Airport Code Table**: This is a simple table of airport codes and corresponding cities. https://datahub.io/core/airport-codes#data
 
 Conceptual Data Model
-![[GitHub Logo](https://github.com/aseemnarula1/Udacity_Data_Engineer_Nanodegree_Capstone_Project/blob/main/Conceptual_Data_Model.png)]([https://example.com/path/to/your/image.png)](https://github.com/aseemnarula1/Udacity_Data_Engineer_Nanodegree_Capstone_Project/blob/main/Conceptual_Data_Model.png)
+![[STAR Schema](https://github.com/aseemnarula1/Udacity_Data_Engineer_Nanodegree_Capstone_Project/blob/main/Conceptual_Data_Model.png)
 
 
 
