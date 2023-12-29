@@ -26,6 +26,10 @@ The following datasets are included in the project workspace.
 
 **Airport Code Table**: This is a simple table of airport codes and corresponding cities. https://datahub.io/core/airport-codes#data
 
+Conceptual Data Model
+![GitHub Logo](https://example.com/path/to/your/image.png)
+
+
 
 **Note** — Since the volume of the dataset is high, I have filtered the dataset when being pulled from the filtered by use of the sub-set smaller data set for my capstone project.
 
